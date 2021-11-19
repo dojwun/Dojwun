@@ -2,8 +2,10 @@
 |Hi there, im ```</dojwun>#2103``` 👋|
 |----|
 | Just trying to contribute to the FiveM Community by providing unique resources |
-
-
+<!-- ||
+| If you would like to show your appreciation you can **[donate here](ko-fi.com/dojwun)** |
+||
+| I dont expect anything, but a coffee sure does help out alot :) | -->
 
 
 

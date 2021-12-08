@@ -2,6 +2,8 @@
 |Hi there, im ```</dojwun>#2103``` 👋|
 |----|
 | Just trying to contribute to the FiveM Community by providing unique resources |
+||
+| If you are intested in recieving github updates join the community on **[Discord](https://discord.gg/NVsaunpesE)**!|
 <!-- ||
 | If you would like to show your appreciation you can **[donate here](ko-fi.com/dojwun)** |
 ||

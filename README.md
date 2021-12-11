@@ -3,11 +3,10 @@
 |----|
 | Just trying to contribute to the FiveM Community by providing unique resources |
 ||
-| If you are intested in recieving github updates join the community on **[Discord](https://discord.gg/NVsaunpesE)**!|
-<!-- ||
-| If you would like to show your appreciation you can **[donate here](ko-fi.com/dojwun)** |
+| Intested in recieving github updates & viewing upcoming projects? join the community on **[Discord](https://discord.gg/NVsaunpesE)**!|
 ||
-| I dont expect anything, but a coffee sure does help out alot :) | -->
+| If you would like to show your appreciation & support future projects you can **[buy a coffee :)](ko-fi.com/dojwun)** |
+
 
 
 

@@ -2,7 +2,7 @@
 |Hi there, im ```</dojwun>#2103``` 👋|
 |----|
 
-***No longer Active: Might come back***
+***No longer Active***
 
 Updated 2/21/2022
 

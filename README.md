@@ -9,3 +9,8 @@ Hi, its been awhile and ive had tons of scipts i havent released, To start with 
 
 
 FiveM is not what it used to be so if i actully get feedback on this release i will be posting/ fixing/ adding on a more regular basis. ✌️
+
+
+ 
+ 
+ <!-- ![](https://komarev.com/ghpvc/?username=dojwun&color=gray&label=VIEWS&style=plastic) -->
